@@ -1,7 +1,7 @@
 <h1 align="center">Browser blinking Issue in Arch Linux VM</h1>
 </br>
 </br>
-<p>Hello all, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+<p>Hello all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
 </br>
 <p>since a few weeks I have a strange phenomenon with my Arch Linux VM running in VMware Workstation.</br>
 This is noticeable in the sense that when working in the browser, another previously opened tab often "blinks" on top of it...</br>
