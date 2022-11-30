@@ -7,8 +7,10 @@
 This is noticeable in the sense that when working in the browser, another previously opened tab often "blinks" on top of it...</br>
 I hope this is understandable, otherwise here are some screenshots of the problem, my used browsers and the VM settings.</p>
 </br>
+<p>Previously used tab blinks to the foreground</p>
 <img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_01.png?raw=true" width="640" height="400"  />
 </br>
+<p>Desktop blinks in the foreground</p>
 <img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_02.png?raw=true" width="640" height="400"  />
 </br>
 <p>VMware Workstation settings for this VM</p>
