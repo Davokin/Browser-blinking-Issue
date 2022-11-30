@@ -26,5 +26,8 @@ I have already tried the following;
 - reinstallation of vmware-tools
 
 </br>
+I would be very grateful for any suggestions, please post in the discussions
+
+</br>
 Many thanks in advance
 Kind regards, Davokin
