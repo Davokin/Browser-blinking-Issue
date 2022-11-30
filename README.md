@@ -11,7 +11,7 @@
 </br>
 <img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_03.png?raw=true" width="640" height="400"  />
 </br>
-<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_04.png?raw=true" width="640" height="400"  />
+<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_04.png?raw=true" width="259" height="290"  />
 
 </br>
 I would be very happy if someone here could help me, maybe someone already had this problem? Unfortunately I am at a loss.
