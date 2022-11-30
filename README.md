@@ -26,3 +26,10 @@ I have already tried the following:
 
 - update all applications and packages
 - reinstallation of vmware-tools
+
+</br>
+
+Many thanks in advance
+
+Kind regards
+Davokin
