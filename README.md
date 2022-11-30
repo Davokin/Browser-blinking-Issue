@@ -26,7 +26,7 @@ I have already tried the following;
 - reinstallation of vmware-tools
 
 </br>
-I would be very grateful for any suggestions, please post in the discussions
+<p>I would be very grateful for any suggestions, please post in the <a href="https://github.com/Davokin/Browser-blinking-Issue/discussions">discussions</a></p>
 
 </br>
 Many thanks in advance
