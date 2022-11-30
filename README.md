@@ -18,18 +18,13 @@ I hope this is understandable, otherwise here are some screenshots of the proble
 </br>
 <p>Used browsers where this problem occurred</p>
 <img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_04.png?raw=true" width="259" height="290"  />
-
 </br>
 I would be very happy if someone here could help me, maybe someone already had this problem? Unfortunately I am at a loss.
-
-I have already tried the following:
+I have already tried the following;
 
 - update all applications and packages
 - reinstallation of vmware-tools
 
 </br>
-
 Many thanks in advance
-
-Kind regards
-Davokin
+Kind regards, Davokin
