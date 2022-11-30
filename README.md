@@ -7,13 +7,15 @@
 This is noticeable in the sense that when working in the browser, another previously opened tab often "blinks" on top of it...</br>
 I hope this is understandable, otherwise here are some screenshots of the problem, my used browsers and the VM settings.</p>
 </br>
-<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_01.png?raw=true" width="640" height="400" title="hover text" />
+<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_01.png?raw=true" width="640" height="400"  />
 </br>
-<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_02.png?raw=true" width="640" height="400" title="hover text" />
+<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_02.png?raw=true" width="640" height="400"  />
 </br>
-<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_03.png?raw=true" width="640" height="400" title="hover text" />
+<p>VMware Workstation settings for this VM</p>
+<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_03.png?raw=true" width="640" height="400"  />
 </br>
-<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_04.png?raw=true" width="259" height="290" title="hover text" />
+<p>Used browsers where this problem occurred</p>
+<img src="https://github.com/Davokin/Browser-blinking-Issue/blob/main/images/archvmerr_04.png?raw=true" width="259" height="290"  />
 
 </br>
 I would be very happy if someone here could help me, maybe someone already had this problem? Unfortunately I am at a loss.
