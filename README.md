@@ -33,6 +33,6 @@ Many thanks in advance
 Kind regards, Davokin
 
 </br>
-<h4>Edit: Issue marked as completed!</h4>
 </br>
+<h4>Edit: Issue marked as completed!</h4>
 For more details see <a href="https://github.com/Davokin/Browser-blinking-Issue/discussions">discussions</a>
